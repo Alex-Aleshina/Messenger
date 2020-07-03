@@ -6,7 +6,6 @@
         <span>{{contact_info.phone}}</span>
       </div>
       <div class="info__tools">
-        <button class="start-call">Call</button>
         <button class="start-chat" @click="checkChats">
           Start chat
         </button>
